@@ -1,11 +1,11 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'devcamp_view_tool/version'
+require 'cannon_tools/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "devcamp_view_tool"
-  spec.version       = DevcampViewTool::VERSION
+  spec.name          = "cannon_tools"
+  spec.version       = CannonTools::VERSION
   spec.authors       = ["Benjamin Cannon"]
   spec.email         = ["cabcannon2000@gmail.com"]
 

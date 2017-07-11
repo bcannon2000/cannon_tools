@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+'''ruby
+CannonTools::renderer.copyright 'Benjamin Cannon', 'All rights reserved'
+'''
 
 ## Development
 
